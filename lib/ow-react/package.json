@@ -1,6 +1,6 @@
 {
   "name": "ow-react",
-  "version": "23.3.16",
+  "version": "23.3.21",
   "description": "A module to use mount methods to run the usual index.js in a create-react-app, inside overwolf templates (typescript)",
   "main": "index.js",
   "scripts": {
