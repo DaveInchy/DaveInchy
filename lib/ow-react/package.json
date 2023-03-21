@@ -1,0 +1,29 @@
+{
+  "name": "ow-react",
+  "version": "23.3.21",
+  "description": "A module to use mount methods to run the usual index.js in a create-react-app, inside overwolf templates (typescript)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"No Tests Set -Up\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daveinchy/ow-react.git"
+  },
+  "keywords": [
+    "overwolf",
+    "typescript",
+    "react",
+    "mounting"
+  ],
+  "author": "Dave <daveinchy@github.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/daveinchy/ow-react/issues"
+  },
+  "homepage": "https://github.com/daveinchy/ow-react#readme",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
