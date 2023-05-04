@@ -1,16 +1,14 @@
-## 👋 Hi, I’m @DaveInchy
+##👋 Hi, I’m @DaveInchy
 
 <img alt="image" src="https://i.ibb.co/HPmYdng/dadavinci-github-com.png" width="148px">
 
 <br>
-<br>
 
-# I 💖 React + Tailwind + Typescript
+#I 💖 React + Tailwind + Typescript
 
-```react im not that good at.. but its an amazing techinacal marvel.
-therefor check out my overwolf app template, or a react native desktop template or any other templates to get started with Cross platform app development!
-
-I mostly use tailwind with postcss to configure it together with webpack...
-I KNOW WEBPACK IS NOT THE ALPHA NOMORE but leave me to my work, and you might be amazed
+```
+Check out my React Native Desktop Template, 
+  Overwolf app Template or Any other Templates
+    to Get Started with Cross-Platform App Development!
 ```
 
