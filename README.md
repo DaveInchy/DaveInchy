@@ -6,7 +6,14 @@ Contact Avatar:
 
 <br>
 
-#I 💖 React + Tailwind + Typescript
+# Me
+Im an self-taught-dont-remember-when-i-started but i just get it,
+and if you say self-taught is not good enough i might say yea, but i learned math in school and still dont get it. even the computer thinks theyre crazy sometimes.
+but my self-taught career started when i was about 15, and i was already doing it for about 6, If you're asking me, can you do ... ? im like why not? i can explain all of it and give you free time, or i say yes, and even if "i dont know" something then luckily all the things i need are in the AI, or Google for that matter. a lazy dev is a lazy dev. those who want to understand and actually engineer problem solving solutions and not just Nextjs but with one other library added and call it Xjs and now sell your open-source based hyped up company. because people made your software awesome doesnt mean you know more then me. lets talk about it?
+
+# At this point im one with the code, a.m.a.
+The feeling comes often, HEY! i wanna build this, sometimes it coheres with my own codebase. but sometimes outside of the scope of logic, I will fail at math, a lot... but im thankful for everyone that figured it out. otherwise people that are too autistic to understand what they actually can do by not even thibking about it makes me scared, what if i knew math?
+
 
 ```
 Check out my React Native Desktop Template, 
