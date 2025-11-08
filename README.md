@@ -2,7 +2,8 @@
 
 Contact Avatar:
 
-[<img src="https://ibb.co/XxNgjn3Q" type="image/png"></img>](ns1.doonline.nl)
+[https://ibb.co/XxNgjn3Q](ns1.doonline.nl)
+
 
 <br>
 
