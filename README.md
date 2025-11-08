@@ -1,8 +1,8 @@
 ##👋 Hi, I’m @DaveInchy
 
-Contact Avatar:
+Me IRL (ive always been on thin ice tbf)
 
-[https://ibb.co/XxNgjn3Q](ns1.doonline.nl)
+[<img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://i.ibb.co/F4NMmQ0r/image.png">](https://i.ibb.co/F4NMmQ0r/image.png)
 
 
 <br>
